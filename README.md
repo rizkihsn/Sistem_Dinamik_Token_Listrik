@@ -10,7 +10,7 @@ Dosen pengampu: Mohammad Bayu Anggara, S.Kom., M.Kom.
 | Nama | Rizki Hasan Fauzi |
 | NIM | 301240071 |
 | Kelas | 5B Teknik Informatika |
-| Video tutorial |  |
+| Video tutorial | [YouTube]  |
 
 ## Deskripsi
 
